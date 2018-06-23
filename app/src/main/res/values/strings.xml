@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Relations</string>
     <string name="action_settings">Settings</string>
+    <string name="Login.Title.Activity">Вход</string>
+
+    <!-- Strings related to login -->
+    <string name="Login.Prompt.Login">Логин</string>
+    <string name="Login.Prompt.Password">Пароль</string>
+    <string name="Login.Action.SignIn">Войти</string>
+    <string name="Error.Credentials.Validation">Логин или пароль не правильные</string>
+    <string name="Error.Credentials.Password.Length">Слишком короткий пароль</string>
+    <string name="Error.Field.Required">Обязательное поле</string>
+    <string name="Permission.Rationale.Contacts">"Конктакты нужны"
+    </string>
 </resources>
